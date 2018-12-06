@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542021012 source:j:\devn2\fungsi mengubah nilai ke huruf\main.cpp
+	<iostream>
+	<string.h>
+	<cmath>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540969960 source:d:\dev\menampilkan deret angka\main.cpp
+	<iostream>
+	<conio.h>
+
+1540970104 source:j:\dev\faktorial\main.cpp
+	<iostream>
+	<conio.h>
+

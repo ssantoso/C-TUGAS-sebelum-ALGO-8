@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542161754 source:c:\dev\fungsi menambahkan 2 bilangan (tambah,kurang,bagi,kali)\main.cpp
+	<iostream>
+	<cstdlib>
+
