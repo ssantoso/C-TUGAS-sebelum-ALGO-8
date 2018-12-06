@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538785404 source:c:\dev\tipe_data\main.cpp
+	<iostream>
+	<limits>
+
