@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542174746 source:c:\dev\mengetahui kuadran dari koordinat\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

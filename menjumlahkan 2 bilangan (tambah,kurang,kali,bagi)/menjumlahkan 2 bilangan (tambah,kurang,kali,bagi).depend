@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542163481 source:c:\dev\menjumlahkan 2 bilangan (tambah,kurang,kali,bagi)\main.cpp
+	<iostream>
+	<cstdlib>
+
